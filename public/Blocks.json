@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "Cover": "https://ibb.co/b7CVVqg",
+        "Title": "Sample Title",
+        "Author": {
+            "Name": "SHAKIB",
+            "Image": "https://ibb.co/6D6W9jw"
+        },
+        "Post Data": "20.20.2000",
+        "Reading Time": "5 minutes",
+        "Hashtag": "#example #data #structure"
+    },
+    {
+        "ID": 2,
+        "Cover": "https://ibb.co/GHG462C",
+        "Title": "Another Sample Title",
+        "Author": {
+            "Name": "RAKIB",
+            "Image": "https://ibb.co/KshKsCL"
+        },
+        "Post Data": "20.20.2000",
+        "Reading Time": "7 minutes",
+        "Hashtag": "#example #data #structure"
+    },
+    {
+        "ID": 2,
+        "Cover": "https://ibb.co/HxV6RxZ",
+        "Title": "Another Sample Title",
+        "Author": {
+            "Name": "SABBIR",
+            "Image": "https://ibb.co/MBmMfHV"
+        },
+        "Post Data": "20.20.2000",
+        "Reading Time": "7 minutes",
+        "Hashtag": "#example #data #structure"
+    },
+    {
+        "ID": 2,
+        "Cover": "https://ibb.co/Tm2MrVM",
+        "Title": "Another Sample Title",
+        "Author": {
+            "Name": "SAGOR",
+            "Image": "https://ibb.co/gzKtSpF"
+        },
+        "Post Data": "20.20.2000.",
+        "Reading Time": "7 minutes",
+        "Hashtag": "#example #data #structure"
+    },
+    {
+        "ID": 2,
+        "Cover": "https://ibb.co/Tm2MrVM",
+        "Title": "Another Sample Title",
+        "Author": {
+            "Name": "RIYA",
+            "Image": "https://ibb.co/8XC1TQP"
+        },
+        "Post Data": "20.20.2000.",
+        "Reading Time": "7 minutes",
+        "Hashtag": "#example #data #structure"
+    }
+]
